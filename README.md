@@ -2,7 +2,10 @@ Script updated
 Added Features 
 (Jio 4g payload support)
 
-bash <(curl -Ls https://github.com/lalfulsk/NT-A.I.O/raw/main/NT_AIO.sh)
+
+bash <(curl -Ls https://github.com/Sanjays85141/Funny/raw/main/NT_AIO.sh)
+
+//  bash <(curl -Ls https://github.com/lalfulsk/NT-A.I.O/raw/main/NT_AIO.sh)
 
 
 
