@@ -96,7 +96,7 @@ apt-get remove --purge exim4 -y
 apt install ruby -y
 apt -y install wget curl
 gem install lolcat
-bash <(curl -Ls https://raw.githubusercontent.com/lalfulsk/NT-A.I.O/main/Pythoninstall)
+bash <(curl -Ls https://raw.githubusercontent.com/Sanjays85141/Funny/main/Pythoninstall)
 apt install neofetch -y
 apt install bc -y
 apt install make -y
