@@ -84,7 +84,7 @@ clear
 
 run_tools() {
 #update
-ln -fs /usr/share/zoneinfo/Asia/Jakarta /etc/localtime
+ln -fs /usr/share/zoneinfo/Asia/Kolkata /etc/localtime
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 >/dev/null 2>&1
 sysctl -w net.ipv6.conf.default.disable_ipv6=1 >/dev/null 2>&1
 apt update -y
